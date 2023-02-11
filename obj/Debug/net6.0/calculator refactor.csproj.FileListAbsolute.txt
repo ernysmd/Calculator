@@ -1,0 +1,15 @@
+C:\Users\ernys\Desktop\program_projects\calculator refactor\obj\Debug\net6.0\calculator refactor.csproj.AssemblyReference.cache
+C:\Users\ernys\Desktop\program_projects\calculator refactor\obj\Debug\net6.0\calculator refactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ernys\Desktop\program_projects\calculator refactor\obj\Debug\net6.0\calculator refactor.AssemblyInfoInputs.cache
+C:\Users\ernys\Desktop\program_projects\calculator refactor\obj\Debug\net6.0\calculator refactor.AssemblyInfo.cs
+C:\Users\ernys\Desktop\program_projects\calculator refactor\obj\Debug\net6.0\calculator refactor.csproj.CoreCompileInputs.cache
+C:\Users\ernys\Desktop\program_projects\calculator refactor\bin\Debug\net6.0\calculator refactor.exe
+C:\Users\ernys\Desktop\program_projects\calculator refactor\bin\Debug\net6.0\calculator refactor.deps.json
+C:\Users\ernys\Desktop\program_projects\calculator refactor\bin\Debug\net6.0\calculator refactor.runtimeconfig.json
+C:\Users\ernys\Desktop\program_projects\calculator refactor\bin\Debug\net6.0\calculator refactor.dll
+C:\Users\ernys\Desktop\program_projects\calculator refactor\bin\Debug\net6.0\calculator refactor.pdb
+C:\Users\ernys\Desktop\program_projects\calculator refactor\obj\Debug\net6.0\calculator refactor.dll
+C:\Users\ernys\Desktop\program_projects\calculator refactor\obj\Debug\net6.0\refint\calculator refactor.dll
+C:\Users\ernys\Desktop\program_projects\calculator refactor\obj\Debug\net6.0\calculator refactor.pdb
+C:\Users\ernys\Desktop\program_projects\calculator refactor\obj\Debug\net6.0\calculator refactor.genruntimeconfig.cache
+C:\Users\ernys\Desktop\program_projects\calculator refactor\obj\Debug\net6.0\ref\calculator refactor.dll
